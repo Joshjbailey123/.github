@@ -1,6 +1,6 @@
 # Flow Battery Commons
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=flat-square)](https://discord.gg/tPPTtVUB)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=flat-square)](https://discord.gg/pPApYasTst))
 
 This GitHub organization is part of the Flow Battery Commons, a global research community dedicated to the topic of flow batteries. Initiated by scientists from the Massachusetts Institute of Technology (MIT), Queen’s University Belfast (QUB), and Friedrich Schiller University Jena (FSU), this community welcomes individuals with an interest in flow battery research and development. Feel free to participate actively in this community and help to shape it! We also would appreciate if you invite colleagues that can benefit from or contribute to this space! 
 
